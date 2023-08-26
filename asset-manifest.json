@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Filmverse-movie-app-using-React/static/css/main.80c9c547.css",
+    "main.js": "/Filmverse-movie-app-using-React/static/js/main.ad24b554.js",
+    "static/media/HeroBG.jpg": "/Filmverse-movie-app-using-React/static/media/HeroBG.422527f47fa4b8ac80ea.jpg",
+    "index.html": "/Filmverse-movie-app-using-React/index.html",
+    "main.80c9c547.css.map": "/Filmverse-movie-app-using-React/static/css/main.80c9c547.css.map",
+    "main.ad24b554.js.map": "/Filmverse-movie-app-using-React/static/js/main.ad24b554.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c9c547.css",
+    "static/js/main.ad24b554.js"
+  ]
+}
