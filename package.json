@@ -1,7 +1,7 @@
 {
   "name": "filmverse",
   "version": "0.1.0",
-  "homepage": "https://abuhuraira2129.github.io/Filmverse-movie-app-using-React",
+  "homepage": "https://abuhuraira2129.github.io/Filmverse-movie-app-using-React/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",

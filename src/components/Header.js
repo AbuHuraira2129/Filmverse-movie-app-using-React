@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Header = () => {
   return (
     <header className="p-5 flex flex-wrap justify-between items-center">
-      <Link to={'/home'}><h1 className="text-white font-bold ">
+      <Link to={'/Filmverse-movie-app-using-React'}><h1 className="text-white font-bold ">
         <span className="text-red-600">Film</span>Verse
       </h1></Link>
       <Link to={'/addmovie'}>

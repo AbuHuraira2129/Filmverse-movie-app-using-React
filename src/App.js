@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <Header />
       <Routes>
-        <Route path="/home" element={<MoviesCards />} />
+        <Route path="/Filmverse-movie-app-using-React" element={<MoviesCards />} />
         <Route path="/addmovie" element={<AddMovie />} />
         <Route path="/Detail" element={<Detail />} />
       </Routes>
