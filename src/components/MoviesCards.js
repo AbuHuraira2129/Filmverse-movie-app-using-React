@@ -26,11 +26,10 @@ const MoviesCards = () => {
     <div className="MovieCard">
       <div className="content flex flex-wrap flex-col">
         <h1 className="text-5xl	font-bold">
-          Unlimited movies, TV shows, and more
+          Unlimited movies data collection
         </h1>
         <p>
-          Watch anywhere. Cancel anytime. Ready to watch? Just click the Login
-          Button.
+          You can save your movies data at one place and you can share your friend this website!
         </p>
         <button>Get Started</button>
       </div>
